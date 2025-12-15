@@ -170,3 +170,5 @@ payload:
   - DOMAIN,vipsdkauth.hpplay.cn
   - DOMAIN,vv.play.aiseet.atianqi.com
   - DOMAIN,walp.atm.youku.com
+  - DOMAIN-SUFFIX,ota-mitv.cdn.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,beacon-api.aliyuncs.com
